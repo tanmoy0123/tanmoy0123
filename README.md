@@ -7,7 +7,7 @@ I'm a **Java Backend Developer** specializing in **Spring Boot**. I love buildin
 - 🌱 Currently learning **React** for frontend development
 - 🔍 Interested in **Full-Stack development**, specifically using **Thymeleaf**
 - 📈 Working on projects like **Human Resource Management, School Management ERP, and a Social Contact Manager**
-- 🎯 Goal: To transition into **full-stack development** and build robust web applications
+- 🎯 Goal: To transition into **Full-stack development** and build robust web applications
 
 ### 🛠 Tech Stack:
 - **Backend:** Java, Spring Boot, Spring Security, Hibernate, JPA, Microservices
