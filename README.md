@@ -16,8 +16,8 @@ I'm a **Java Backend Developer** specializing in **Spring Boot**. I love buildin
 - **Other:** Docker, AWS, CI/CD, Git
 
 ### 📫 Connect with Me:
-- 💼 [LinkedIn]([https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/tanmoymozumder/))
-- {} [Leetcode]([https://www.linkedin.com/in/tanmoymozumder](https://leetcode.com/u/tanmoymozumder0/))
+- 💼 [LinkedIn]([https://www.linkedin.com/in/tanmoymozumder/])
+- {} [Leetcode]([https://leetcode.com/u/tanmoymozumder0/])
 - 📧 Email: tanmoymozumder0@gmail.com
 
 
