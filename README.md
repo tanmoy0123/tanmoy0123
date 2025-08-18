@@ -1,23 +1,38 @@
-### Hi there, I'm Tanmoy Mozumder 👋
-
-I'm a **Java Backend Developer** specializing in **Spring Boot**. I love building scalable and efficient backend systems and continuously improving my skills in modern technologies.
-
-### 🚀 About Me:
-- 💻 **Backend Developer** with experience in **Spring Boot & Java**
-- 🌱 Currently learning **React** for frontend development
-- 🔍 Interested in **Full-Stack development**, specifically using **Thymeleaf**
-- 📈 Working on projects like **Human Resource Management, School Management ERP, and a Social Contact Manager**
-- 🎯 Goal: To transition into **Full-stack development** and build robust web applications
-
-### 🛠 Tech Stack:
-- **Backend:** Java, Spring Boot, Spring Security, Hibernate, JPA, Microservices
-- **Frontend (Learning):** React, Thymeleaf
-- **Databases:** PostgreSQL, MySQL
-- **Other:** Docker, AWS, CI/CD, Git
-
-### 📫 Connect with Me:
-- 💼 [LinkedIn]([https://www.linkedin.com/in/tanmoymozumder/])
-- {} [Leetcode]([https://leetcode.com/u/tanmoymozumder0/])
-- 📧 Email: tanmoymozumder0@gmail.com
+<div align="center" ><img src="https://media.licdn.com/dms/image/v2/D4D22AQEX7-PJuhogyg/feedshare-shrink_800/B4DZfyINv_HMAg-/0/1752113929621?e=2147483647&v=beta&t=g57frCPYhSsf_df29ENU4jzSgxqLIat5arDIK2EyMbI" alt="Coding" width="800" height="300" align="center"/></div>
 
 
+<h1 align="center">Hi 👋, I'm Tanmoy Mozumder</h1>
+<h3 align="center">I am a passionate Java Developer (Spring Boot) from Dhaka, Bangladesh</h3>
+
+
+
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=tanmoy0123&label=Profile%20views&color=0e75b6&style=flat" alt="tanmoy0123" /> </p>
+
+- 🔭 I’m currently working on Hulk-Hire Tech as a Trainee Java Developer **Stripe Payment System**
+
+- 🌱 I’m currently learning Docker and Kubernetes to better understand cloud-native Java application deployment. **Kubernetes, Docker, AWS**
+
+- 👨‍💻 All of my projects are available at [https://github.com/tanmoy0123?tab=repositories](https://github.com/tanmoy0123?tab=repositories)
+
+- 💬 Ask me about **Spring Boot, Spring Boot Framework, Spring Security, Spring MVC, JDBC, JPA, Hibernate**
+
+- 📫 How to reach me **tanmoymozumder0@gmail.com**
+
+- ⚡ Fun fact **I think I am funny.**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/tanmoymozumder" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tanmoymozumder" height="30" width="40" /></a>
+<a href="https://fb.com/tanmoy010" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="tanmoy010" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/tanmoymozumder0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="tanmoymozumder0" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.rabbitmq.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="rabbitMQ" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tanmoy0123&show_icons=true&locale=en&layout=compact" alt="tanmoy0123" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tanmoy0123&show_icons=true&locale=en" alt="tanmoy0123" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tanmoy0123&" alt="tanmoy0123" /></p>
